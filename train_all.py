@@ -16,7 +16,7 @@ import random
 
 # 1. Configuration
 DATASET_FILE = "dataset2018.csv"
-OUTPUT_MODEL_FILE = "optimized_models2018.pkl"
+OUTPUT_MODEL_FILE = "model.pkl"
 WINDOW_SIZE = 17
 
 # 2. PyTorch Model Definition
