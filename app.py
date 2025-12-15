@@ -18,7 +18,7 @@ from collections import Counter
 # ========================
 # 1. Configuration & Constants
 # ========================
-MODEL_FILE = "models22.pkl"
+MODEL_FILE = "models.pkl"
 WINDOW_SIZE = 17
 
 # --- PyTorch Model Class ---
